@@ -1,0 +1,7 @@
+title: ANKEAL_code
+logo: /assets/img/logo.png
+description: Web Design & Website Development.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-minimal
+gem "github-pages", group: :jekyll_plugins
