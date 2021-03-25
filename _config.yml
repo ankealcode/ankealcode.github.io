@@ -3,5 +3,5 @@ logo: /assets/img/ankeal-logo.png
 description: Web Design & Website Development.
 show_downloads: true
 google_analytics:
-theme: jekyll-theme-minimal
+theme: jekyll-theme-hacker
 gem "github-pages", group: :jekyll_plugins
